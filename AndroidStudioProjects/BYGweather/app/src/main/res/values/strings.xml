@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BYGweather</string>
+
+    <string name="welcome">Welcome to BYG Weather!</string>
+    <string name="country">Choose your country</string>
+    <string name="city">Choose your city</string>
+    <string name="current">Use current location</string>
+    <string name="result">Get Weather</string>
+
+    
+    <string name="action_settings">Settings</string>
+</resources>
